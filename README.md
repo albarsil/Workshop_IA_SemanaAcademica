@@ -1,3 +1,6 @@
-# Experimentos de IA realizados na semana acadêmica da Unviersidade doVale do Rio dos Sinos (UNISINOS)
+# Workshop
+Semana acadêmica da Unviersidade do Vale do Rio dos Sinos (UNISINOS)
 
-O workshop abordou assuntos relacionados a data science e machine learning
+O workshop abordou assuntos e experimentos relacionados a data science e machine learning
+
+
